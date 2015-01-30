@@ -7,30 +7,27 @@
   src: url("../fonts/opensans-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans-light-webfont.woff") format("woff"), url("../fonts/opensans-light-webfont.ttf") format("truetype"), url("../fonts/opensans-light-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "OSR";
   src: url("../fonts/opensans-regular-webfont.eot");
   src: url("../fonts/opensans-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans-regular-webfont.woff") format("woff"), url("../fonts/opensans-regular-webfont.ttf") format("truetype"), url("../fonts/opensans-regular-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "OSB";
   src: url("../fonts/opensans-bold-webfont.eot");
   src: url("../fonts/opensans-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans-bold-webfont.woff") format("woff"), url("../fonts/opensans-bold-webfont.ttf") format("truetype"), url("../fonts/opensans-bold-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "CSB";
   src: url("../fonts/cabinsketch-bold-webfont.eot");
   src: url("../fonts/cabinsketch-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/cabinsketch-bold-webfont.woff") format("woff"), url("../fonts/cabinsketch-bold-webfont.ttf") format("truetype"), url("../fonts/cabinsketch-bold-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 .icon, .icon-arrow, .icon-bottom-left-border, .icon-bottom-right-border, .icon-bottom-sticker, .icon-eraser, .icon-krest, .icon-left-bottom-border, .icon-left-top-border, .icon-pencil, .icon-right-bottom-border, .icon-right-top-border, .icon-top-left-border, .icon-top-right-border, .icon-top-right-ribbon, .icon-top-sticker, .btn-holder .btn-warning:before, .btn-holder p .strike:before {
-  background: url('../img/icon-s33ab8bc81f.png') no-repeat; }
+  background-image: url('../img/icon-s8568f77846.png');
+  background-repeat: no-repeat; }
 
 .icon-arrow {
   background-position: 0 0;
@@ -152,7 +149,7 @@ p, dd, dt, cite, address {
   display: block; }
 
 body.bg1 {
-  background: url(../img/body-bg-1.png) #cccccc; }
+  background: url(../img/body-bg-1.png) #ccc; }
 body.bg2 {
   background: url(../img/body-bg-2.jpg) #deb071; }
 
