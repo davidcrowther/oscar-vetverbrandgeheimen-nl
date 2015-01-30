@@ -1,70 +1,61 @@
 @import url(bootstrap.css);
-@import url(bigvideo.css);
 @font-face {
   font-family: "OSL";
   src: url("../fonts/opensans-light-webfont.eot");
   src: url("../fonts/opensans-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans-light-webfont.woff") format("woff"), url("../fonts/opensans-light-webfont.ttf") format("truetype"), url("../fonts/opensans-light-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "OSR";
   src: url("../fonts/opensans-regular-webfont.eot");
   src: url("../fonts/opensans-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans-regular-webfont.woff") format("woff"), url("../fonts/opensans-regular-webfont.ttf") format("truetype"), url("../fonts/opensans-regular-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "OSB";
   src: url("../fonts/opensans-bold-webfont.eot");
   src: url("../fonts/opensans-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/opensans-bold-webfont.woff") format("woff"), url("../fonts/opensans-bold-webfont.ttf") format("truetype"), url("../fonts/opensans-bold-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "LL";
   src: url("../fonts/lato-light-webfont.eot");
   src: url("../fonts/lato-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-light-webfont.woff") format("woff"), url("../fonts/lato-light-webfont.ttf") format("truetype"), url("../fonts/lato-light-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "LR";
   src: url("../fonts/lato-regular-webfont.eot");
   src: url("../fonts/lato-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-regular-webfont.woff") format("woff"), url("../fonts/lato-regular-webfont.ttf") format("truetype"), url("../fonts/lato-regular-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "LI";
   src: url("../fonts/lato-italic-webfont.eot");
   src: url("../fonts/lato-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-italic-webfont.woff") format("woff"), url("../fonts/lato-italic-webfont.ttf") format("truetype"), url("../fonts/lato-italic-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "LB";
   src: url("../fonts/lato-bold-webfont.eot");
   src: url("../fonts/lato-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-bold-webfont.woff") format("woff"), url("../fonts/lato-bold-webfont.ttf") format("truetype"), url("../fonts/lato-bold-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "LBI";
   src: url("../fonts/lato-bolditalic-webfont.eot");
   src: url("../fonts/lato-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/lato-bolditalic-webfont.woff") format("woff"), url("../fonts/lato-bolditalic-webfont.ttf") format("truetype"), url("../fonts/lato-bolditalic-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: "JS";
   src: url("../fonts/jennasue-webfont.eot");
   src: url("../fonts/jennasue-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/jennasue-webfont.woff") format("woff"), url("../fonts/jennasue-webfont.ttf") format("truetype"), url("../fonts/jennasue-webfont.svg#$font-file") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 .icon, .icon-gray-arrow, .icon-ribbon-blue, .icon-ribbon-green, .icon-ribbon-orange, .icon-trapnsparent-arrow, .page-header .ribbon, body.v2 .page-header .ribbon, body.v3 .page-header .ribbon, .after-info .arrow {
-  background: url('../img/icon-sbb73fd96fb.png') no-repeat; }
+  background-image: url('../img/icon-sda22e1ee58.png');
+  background-repeat: no-repeat; }
 
 .icon-gray-arrow {
   background-position: 0 0;
